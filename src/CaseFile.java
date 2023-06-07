@@ -1,0 +1,11 @@
+import java.io.Serializable;
+
+public class CaseFile implements Serializable {
+	
+	private static final long serialVersionUID = 1L;
+
+	public CaseFile()  {
+		
+	}
+
+}
